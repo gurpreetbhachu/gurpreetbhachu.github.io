@@ -1,0 +1,124 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: rgb(102, 102, 102);
+    font-family: 'Share Tech Mono', monospace;
+    max-height: 100vh;
+}
+h1{
+    color: #20C20E;
+    text-transform: uppercase;
+    font-size: 45px;
+}
+h4{
+    color: #20C20E;
+}
+p{
+    color: #424242;
+    font-weight: 600;
+}
+.buttongroup{
+    border: 2px solid #363636;
+    border-radius: 15px;
+    background-color: #363636;
+    margin-top: 50px;
+}
+.buttongroup a{
+    font-size: 16px;
+    font-weight: 600;
+    text-decoration: none;
+    color: #20C20E;
+    border: 2px solid #363636;
+    border-radius: 150px;
+    padding: 10px 150px;
+    transition: 0.4s;
+    -webkit-transition: 0.4s;
+    margin-top: 20px;
+}
+.buttongroup a:hover{
+    text-decoration: none;
+    color: white;
+    border: 2px solid #363636;
+    background-color: #363636;
+    
+}
+.pagesetup{
+    margin-top: 20%;
+}
+
+.social-list{
+    background: linear-gradient(to bottom, #323232 0%, #3F3F3F 40%, #1C1C1C 150%), linear-gradient(to top, rgba(255,255,255,0.40) 0%, rgba(0,0,0,0.25) 200%);
+ background-blend-mode: multiply;
+    border-radius: 20px;
+    margin-top: 50px;
+}
+
+.social-list li {
+    padding: 15px;
+    list-style-type: none;
+    display: inline-block;
+}
+
+.social-list li a{
+    font-size: 22px;
+}
+.social-link{
+    transition: 0.4s;
+    -webkit-transition: 0.4s;
+}
+
+.social-link {
+    text-decoration: none;
+    filter: grayscale(50);
+}
+.lin:hover {
+    /*Linkedin*/
+    filter: grayscale(0);
+    color: #007bb5;
+}
+
+.fb:hover {
+    /*Facebook*/
+    filter: grayscale(0);
+    color: #3b5998;
+}
+
+.tweet:hover {
+    /*Twitter*/
+    filter: grayscale(0);
+    color: #1da1f2;
+}
+
+.ml:hover {
+    /*Mail*/
+    filter: grayscale(0);
+    color: rgb(49, 119, 250);
+}
+
+.wa:hover {
+    /*Whatsapp*/
+    filter: grayscale(0);
+    color:#25d366;
+}
+
+@media (min-width: 768px) and (max-width: 979px){
+    .pagesetup{
+        margin-top: 30%;
+    }
+}
+
+@media (max-width: 767px)
+{
+    .pagesetup{
+        margin-top: 40%;
+    }
+}
+
+@media (max-width: 480px) 
+{
+    .pagesetup{
+        margin-top: 40%;
+    }
+}

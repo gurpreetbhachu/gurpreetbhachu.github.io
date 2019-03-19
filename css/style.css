@@ -30,19 +30,16 @@ p{
     font-weight: 600;
     text-decoration: none;
     color: #20C20E;
-    border: 2px solid #363636;
-    border-radius: 150px;
-    padding: 10px 150px;
-    transition: 0.4s;
-    -webkit-transition: 0.4s;
+    padding: 10px 40px;
+    transition: 0.5s;
+    -webkit-transition: 0.5s;
     margin-top: 20px;
 }
 .buttongroup a:hover{
     text-decoration: none;
     color: white;
-    border: 2px solid #363636;
     background-color: #363636;
-    
+    border-radius: 15px;
 }
 .pagesetup{
     margin-top: 20%;
@@ -101,6 +98,27 @@ p{
     /*Whatsapp*/
     filter: grayscale(0);
     color:#25d366;
+}
+@media (min-width: 1200px) {
+
+    .buttongroup a{
+        font-size: 16px;
+        font-weight: 600;
+        text-decoration: none;
+        color: #20C20E;
+        border: 2px solid #363636;
+        border-radius: 150px;
+        padding: 10px 150px;
+        transition: 0.4s;
+        -webkit-transition: 0.4s;
+        margin-top: 20px;
+    }
+    .buttongroup a:hover{
+        text-decoration: none;
+        color: white;
+        border: 2px solid #363636;
+        background-color: #363636;   
+    }
 }
 
 @media (min-width: 768px) and (max-width: 979px){

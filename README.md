@@ -1,2 +1,3 @@
 # Gurpreet Singh Bhachu
-Web Designer & Developer
+*Web Designer & Developer*
+# *Skill:*

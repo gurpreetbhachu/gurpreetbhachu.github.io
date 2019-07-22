@@ -1,1 +1,2 @@
-# gurpreetbhachu.github.io
+# Gurpreet Singh Bhachu
+# Web Designer & Developer

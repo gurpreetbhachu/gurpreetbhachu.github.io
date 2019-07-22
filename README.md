@@ -6,5 +6,5 @@
   * *CSS*
   * *JavaScript*
 * Designing
-  * Adobe Photoshop
-  * Adobe Illustrator
+  * *Adobe Photoshop*
+  * *Adobe Illustrator*

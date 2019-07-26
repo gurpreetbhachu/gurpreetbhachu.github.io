@@ -1,5 +1,5 @@
 # Website Under Development
-# Gurpreet Singh Bhachu
+## Gurpreet Singh Bhachu
 *Web Designer & Developer*
 # *Skill:*
 * Front-end Development

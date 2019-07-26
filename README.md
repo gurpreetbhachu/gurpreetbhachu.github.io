@@ -11,3 +11,4 @@
 * Designing
   * *Adobe Photoshop*
   * *Adobe Illustrator*
+  * *Adobe XD*

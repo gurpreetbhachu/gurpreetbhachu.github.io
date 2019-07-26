@@ -15,4 +15,5 @@
   * *Adobe XD*
   
 ## *Contact:*
- *  [GitHub Pages](https://pages.github.com/)
+ *  [Linkedin](https://www.linkedin.com/in/gurpreetsbhachu/)
+ *  [Email](mailto:gurpreet.bhachu@hotmail.com?Subject=Hello%20Gurpreet%20S%20Bhachu)

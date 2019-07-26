@@ -5,6 +5,9 @@
   * *HTML*
   * *CSS*
   * *JavaScript*
+  * *Bootstrap*
+  * *Wordpress*
+  
 * Designing
   * *Adobe Photoshop*
   * *Adobe Illustrator*
